@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABIRAMI D</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **TP Mills Textile App**
+- 🔭 I’m currently working on **Stock Market Trend Analysis Web App**
 
 - 🌱 I’m currently learning **ReactNative,React,Tailwind CSS**
 
