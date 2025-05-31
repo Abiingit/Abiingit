@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abiramimani2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J-NI2fCZEAUWY_X7AI7B_ZjYsxZkgjhg/view?usp=sharing](https://drive.google.com/file/d/1J-NI2fCZEAUWY_X7AI7B_ZjYsxZkgjhg/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1J-NI2fCZEAUWY_X7AI7B_ZjYsxZkgjhg/view?usp=sharing](https://drive.google.com/file/d/1_XbljVDSjijIqS-7TWJPWXGe7qVocRSC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
